@@ -72,5 +72,5 @@ Thoroughly test the application, create documentation, and prepare the final pre
 #### Tasks
 - [x] **Testing** (done) — medium priority
 - [x] **Documentation** (done) — medium priority
-- [ ] **Final Presentation** (in_progress) — medium priority
+- [x] **Final Presentation** (done) — medium priority
 
